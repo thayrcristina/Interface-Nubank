@@ -7,7 +7,6 @@ export default function Header(){
                 <Logo source={} />
                 <Title>Thayna</Title>
             </Top>
-
         </ Container>
 
     );
