@@ -11,7 +11,7 @@ import logo from '~/assets/Nubank_Logo.png';
         <Container>
             <Top>
                 <Logo source={logo} />
-                <Title>Thayna</Title>
+                <Title>Thayná</Title>
             </Top>
             <Icon name="keyboard-arrow-down" size={20} color="#FFF" />
         </Container>
